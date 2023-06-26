@@ -21,6 +21,7 @@ Kaggle의 Instacart Market Basket Analysis 을 이용한 대용량 데이터 적
 ## Challenge
 
 ### 대용량 데이터를 서버를 늘리지 않고 어떻게 효율적으로 적재할 것인가?
+- kafka stream vs batch vs grpc 비교하기
 
 
 ### 대용량 데이터에서의 캐시 서버를 어떻게 구현할 것인가? 
